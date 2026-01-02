@@ -4,9 +4,7 @@
 This repository documents my MSc journey into the mathematical foundations of AI, implemented using **PyTorch on an NVIDIA RTX 5060**.
 We use GPU acceleration to simulate millions of data points to verify statistical theorems empirically.
 
-## Device Check
-**GPU TEST**
-Here i have attached stats_gpu.py file to Stress test the GPU
+**Note** : *For GPU test in your device, here i have attached a stats_gpu.py file to Stress test the GPU.*
 
 ## Topics
 
