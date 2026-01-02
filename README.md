@@ -11,7 +11,7 @@ We use GPU acceleration to simulate millions of data points to verify statistica
 - **Concept:** The "Bell Curve" that describes errors and weights in AI.
 - **Experiment:** Generated **10,000,000** samples on GPU.
 - **Result:**
-![Gaussian Plot](01_gaussian_plot.png)
+*Note: Run the script to generate the visualization.*
 
 ---
 *Environment: PyTorch Nightly (CUDA 12.8)*
