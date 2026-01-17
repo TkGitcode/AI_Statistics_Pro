@@ -9,13 +9,13 @@ We use GPU acceleration to simulate millions of data points to verify statistica
 ## Topics
 
 ### 1. The Normal (Gaussian) Distribution
-- **File:** `01_Gaussian_Distribution/gaussian_simulation.py`
+- **File:** `Gaussian_Distribution/gaussian_simulation.py`
 - **Concept:** The "Bell Curve" that describes errors and weights in AI.
 - **Experiment:** Generated **10,000,000** samples on GPU.
 - **Result:** Proof of Law of Large Numbers.
 
 ### 2. The Central Limit Theorem (CLT)
-- **File:** `02_Central_Limit_Theorem/clt_gpu_simulation.py`
+- **File:** `Central_Limit_Theorem/clt_gpu_simulation.py`
 - **Concept:** Proving that the average of *any* random variables converges to a Gaussian distribution. This is why "Linear Regression" and "Neural Initialization" work.
 - **Experiment:** Transformed a chaotic **Uniform Distribution** (10M points) into a perfect Bell Curve by averaging 10,000 experiments.
 - **Result:** Successfully demonstrated convergence from Uniform to Gaussian distribution via simulation.
